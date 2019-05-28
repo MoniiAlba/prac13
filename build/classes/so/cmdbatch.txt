@@ -1,0 +1,5 @@
+run nevada.exe 3
+run nevada1.exe 2
+run nevada2.exe 1
+run nevada3.exe 3
+run nevada4.exe 2

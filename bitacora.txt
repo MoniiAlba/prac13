@@ -1,0 +1,525 @@
+[New]: nevada6.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada2.exe: burst(1); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada3.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada5.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada1.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada12.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada13.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada7.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada0.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada4.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada10.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada14.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada11.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada9.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada8.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[MemCen]: Paginas asignadas a nevada2.exe : [0, 1]
+[MemCen]: Paginas asignadas a nevada14.exe : [2, 3, 4, 5]
+[MemCen]: Paginas asignadas a nevada10.exe : [6, 7, 8, 9]
+[Ready]: nevada2.exe: burst(1); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Ready]: nevada14.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Ready]: nevada10.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[MemCen]: Paginas asignadas a nevada9.exe : [10, 11, 12, 13]
+[Ready]: nevada9.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[MemCen]: Paginas asignadas a nevada0.exe : [14, 15, 16, 17]
+[Ready]: nevada0.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[MemCen]: Paginas asignadas a nevada1.exe : [18, 19, 20]
+[Ready]: nevada1.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[MemCen]: Paginas asignadas a nevada13.exe : [21, 22, 23, 24]
+[Running]: nevada2.exe: burst(1); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Ready]: nevada13.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[MemCen]: Paginas asignadas a nevada3.exe : [25]
+[Ready]: nevada3.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[MemCen]: Paginas asignadas a nevada6.exe : [26, 27, 28, 29]
+[Swap]: Ingreso de nevada5.exe
+[Ready]: nevada6.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Swap]: Ingreso de nevada7.exe
+[Swap]: Ingreso de nevada8.exe
+[Swap]: Ingreso de nevada11.exe
+[Swap]: Ingreso de nevada12.exe
+[Swap]: Ingreso de nevada4.exe
+[MemCen]: Paginas liberadas de nevada2.exe : [0, 1]
+[Terminated]: nevada2.exe: burst(0); tEspera(0.0 ms); tServicio(216.19078999376052 ms) 
+[Terminated]: Procesos terminados 1
+[Swap]: Salida de nevada4.exe
+[Swap]: Ingreso de nevada4.exe
+[Running]: nevada10.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Swap]: Salida de nevada4.exe
+[Swap]: Ingreso de nevada4.exe
+[Running]: nevada14.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Waiting]: nevada10.exe: burst(2); tEspera(0.0 ms); tServicio(505.58676783565795 ms) 
+[Swap]: Salida de nevada4.exe
+[Swap]: Ingreso de nevada4.exe
+[Ready]: nevada10.exe: burst(2); tEspera(62.178441174482124 ms); tServicio(505.58676783565795 ms) 
+[Swap]: Salida de nevada4.exe
+[Waiting]: nevada14.exe: burst(2); tEspera(0.0 ms); tServicio(418.56323144846965 ms) 
+[Swap]: Ingreso de nevada4.exe
+[Running]: nevada9.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Waiting]: nevada9.exe: burst(2); tEspera(0.0 ms); tServicio(37.19927310155213 ms) 
+[Swap]: Salida de nevada4.exe
+[Swap]: Ingreso de nevada4.exe
+[Running]: nevada0.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Swap]: Salida de nevada4.exe
+[Swap]: Ingreso de nevada4.exe
+[Ready]: nevada9.exe: burst(2); tEspera(854.762605285626 ms); tServicio(37.19927310155213 ms) 
+[Swap]: Salida de nevada4.exe
+[Swap]: Ingreso de nevada4.exe
+[Ready]: nevada14.exe: burst(2); tEspera(953.3677105965016 ms); tServicio(418.56323144846965 ms) 
+[Swap]: Salida de nevada4.exe
+[Waiting]: nevada0.exe: burst(2); tEspera(0.0 ms); tServicio(971.6912767429369 ms) 
+[Swap]: Ingreso de nevada4.exe
+[Running]: nevada1.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Swap]: Salida de nevada4.exe
+[Swap]: Ingreso de nevada4.exe
+[Ready]: nevada0.exe: burst(2); tEspera(655.8043372170953 ms); tServicio(971.6912767429369 ms) 
+[Swap]: Salida de nevada4.exe
+[Waiting]: nevada1.exe: burst(1); tEspera(0.0 ms); tServicio(874.3393334639148 ms) 
+[Swap]: Ingreso de nevada4.exe
+[Running]: nevada13.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Swap]: Salida de nevada4.exe
+[Waiting]: nevada13.exe: burst(2); tEspera(0.0 ms); tServicio(88.74034282058618 ms) 
+[Swap]: Ingreso de nevada4.exe
+[Running]: nevada3.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Swap]: Salida de nevada4.exe
+[Swap]: Ingreso de nevada4.exe
+[Ready]: nevada13.exe: burst(2); tEspera(313.3683135224129 ms); tServicio(88.74034282058618 ms) 
+[Swap]: Salida de nevada4.exe
+[Swap]: Ingreso de nevada4.exe
+[Ready]: nevada1.exe: burst(1); tEspera(411.1586495867893 ms); tServicio(874.3393334639148 ms) 
+[Swap]: Salida de nevada4.exe
+[Waiting]: nevada3.exe: burst(2); tEspera(0.0 ms); tServicio(438.91903766434746 ms) 
+[Swap]: Ingreso de nevada4.exe
+[Running]: nevada6.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Swap]: Salida de nevada4.exe
+[Swap]: Ingreso de nevada4.exe
+[Ready]: nevada3.exe: burst(2); tEspera(68.89835458049897 ms); tServicio(438.91903766434746 ms) 
+[Waiting]: nevada6.exe: burst(1); tEspera(0.0 ms); tServicio(278.2445598201785 ms) 
+[Swap]: Salida de nevada4.exe
+[Swap]: Ingreso de nevada4.exe
+[Running]: nevada10.exe: burst(2); tEspera(62.178441174482124 ms); tServicio(505.58676783565795 ms) 
+[Swap]: Salida de nevada4.exe
+[Swap]: Ingreso de nevada4.exe
+[Ready]: nevada6.exe: burst(1); tEspera(571.2573448643362 ms); tServicio(278.2445598201785 ms) 
+[Waiting]: nevada10.exe: burst(1); tEspera(62.178441174482124 ms); tServicio(1470.7049669588046 ms) 
+[Swap]: Salida de nevada4.exe
+[Swap]: Ingreso de nevada4.exe
+[Running]: nevada9.exe: burst(2); tEspera(854.762605285626 ms); tServicio(37.19927310155213 ms) 
+[Swap]: Salida de nevada4.exe
+[Waiting]: nevada9.exe: burst(1); tEspera(854.762605285626 ms); tServicio(172.33424817400478 ms) 
+[Swap]: Ingreso de nevada4.exe
+[Running]: nevada14.exe: burst(2); tEspera(953.3677105965016 ms); tServicio(418.56323144846965 ms) 
+[Swap]: Salida de nevada4.exe
+[Swap]: Ingreso de nevada4.exe
+[Ready]: nevada10.exe: burst(1); tEspera(450.39752055299255 ms); tServicio(1470.7049669588046 ms) 
+[Swap]: Salida de nevada4.exe
+[Waiting]: nevada14.exe: burst(1); tEspera(953.3677105965016 ms); tServicio(1077.4131736237096 ms) 
+[Swap]: Ingreso de nevada4.exe
+[Running]: nevada0.exe: burst(2); tEspera(655.8043372170953 ms); tServicio(971.6912767429369 ms) 
+[Swap]: Salida de nevada4.exe
+[Swap]: Ingreso de nevada4.exe
+[Ready]: nevada9.exe: burst(1); tEspera(1675.2767660560212 ms); tServicio(172.33424817400478 ms) 
+[Swap]: Salida de nevada4.exe
+[Waiting]: nevada0.exe: burst(1); tEspera(655.8043372170953 ms); tServicio(1471.3686279337699 ms) 
+[Swap]: Ingreso de nevada4.exe
+[Running]: nevada13.exe: burst(2); tEspera(313.3683135224129 ms); tServicio(88.74034282058618 ms) 
+[Swap]: Salida de nevada4.exe
+[Swap]: Ingreso de nevada4.exe
+[Ready]: nevada14.exe: burst(1); tEspera(1519.0229042093104 ms); tServicio(1077.4131736237096 ms) 
+[Swap]: Salida de nevada4.exe
+[Swap]: Ingreso de nevada4.exe
+[Ready]: nevada0.exe: burst(1); tEspera(860.678779683499 ms); tServicio(1471.3686279337699 ms) 
+[Swap]: Salida de nevada4.exe
+[Waiting]: nevada13.exe: burst(1); tEspera(313.3683135224129 ms); tServicio(973.9410417184183 ms) 
+[Swap]: Ingreso de nevada4.exe
+[Running]: nevada1.exe: burst(1); tEspera(411.1586495867893 ms); tServicio(874.3393334639148 ms) 
+[MemCen]: Paginas liberadas de nevada1.exe : [18, 19, 20]
+[Terminated]: nevada1.exe: burst(0); tEspera(411.1586495867893 ms); tServicio(1047.1202042069908 ms) 
+[Terminated]: Procesos terminados 2
+[Swap]: Salida de nevada4.exe
+[MemCen]: Paginas asignadas a nevada4.exe : [0, 1, 18, 19]
+[Running]: nevada3.exe: burst(2); tEspera(68.89835458049897 ms); tServicio(438.91903766434746 ms) 
+[Swap]: Salida de nevada8.exe
+[Swap]: Ingreso de nevada8.exe
+[Ready]: nevada13.exe: burst(1); tEspera(712.051061055266 ms); tServicio(973.9410417184183 ms) 
+[Waiting]: nevada3.exe: burst(1); tEspera(68.89835458049897 ms); tServicio(794.5431056717821 ms) 
+[Swap]: Salida de nevada7.exe
+[Swap]: Ingreso de nevada7.exe
+[Running]: nevada6.exe: burst(1); tEspera(571.2573448643362 ms); tServicio(278.2445598201785 ms) 
+[Swap]: Salida de nevada8.exe
+[Swap]: Ingreso de nevada8.exe
+[Ready]: nevada3.exe: burst(1); tEspera(569.3500644684578 ms); tServicio(794.5431056717821 ms) 
+[MemCen]: Paginas liberadas de nevada6.exe : [26, 27, 28, 29]
+[Terminated]: nevada6.exe: burst(0); tEspera(571.2573448643362 ms); tServicio(839.0915441066729 ms) 
+[Terminated]: Procesos terminados 3
+[Swap]: Salida de nevada7.exe
+[Swap]: Ingreso de nevada7.exe
+[Running]: nevada10.exe: burst(1); tEspera(450.39752055299255 ms); tServicio(1470.7049669588046 ms) 
+[MemCen]: Paginas liberadas de nevada10.exe : [6, 7, 8, 9]
+[Terminated]: nevada10.exe: burst(0); tEspera(450.39752055299255 ms); tServicio(1539.150054125384 ms) 
+[Terminated]: Procesos terminados 4
+[Swap]: Salida de nevada8.exe
+[MemCen]: Paginas asignadas a nevada8.exe : [6, 7, 8, 9, 20, 26]
+[Running]: nevada9.exe: burst(1); tEspera(1675.2767660560212 ms); tServicio(172.33424817400478 ms) 
+[MemCen]: Paginas liberadas de nevada9.exe : [10, 11, 12, 13]
+[Terminated]: nevada9.exe: burst(0); tEspera(1675.2767660560212 ms); tServicio(273.04615416929846 ms) 
+[Terminated]: Procesos terminados 5
+[Swap]: Salida de nevada7.exe
+[MemCen]: Paginas asignadas a nevada7.exe : [10, 11, 12, 13, 27, 28]
+[Running]: nevada14.exe: burst(1); tEspera(1519.0229042093104 ms); tServicio(1077.4131736237096 ms) 
+[MemCen]: Paginas liberadas de nevada14.exe : [2, 3, 4, 5]
+[Terminated]: nevada14.exe: burst(0); tEspera(1519.0229042093104 ms); tServicio(1652.5861315442567 ms) 
+[Terminated]: Procesos terminados 6
+[Swap]: Salida de nevada5.exe
+[Swap]: Ingreso de nevada5.exe
+[Running]: nevada0.exe: burst(1); tEspera(860.678779683499 ms); tServicio(1471.3686279337699 ms) 
+[MemCen]: Paginas liberadas de nevada0.exe : [14, 15, 16, 17]
+[Terminated]: nevada0.exe: burst(0); tEspera(860.678779683499 ms); tServicio(1555.8666934321536 ms) 
+[Terminated]: Procesos terminados 7
+[Swap]: Salida de nevada5.exe
+[MemCen]: Paginas asignadas a nevada5.exe : [2, 3, 4, 5, 14, 15]
+[Running]: nevada4.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Waiting]: nevada4.exe: burst(1); tEspera(0.0 ms); tServicio(642.1214501322125 ms) 
+[Swap]: Salida de nevada11.exe
+[Swap]: Ingreso de nevada11.exe
+[Running]: nevada13.exe: burst(1); tEspera(712.051061055266 ms); tServicio(973.9410417184183 ms) 
+[Swap]: Salida de nevada11.exe
+[Swap]: Ingreso de nevada11.exe
+[Ready]: nevada4.exe: burst(1); tEspera(485.1847818181896 ms); tServicio(642.1214501322125 ms) 
+[MemCen]: Paginas liberadas de nevada13.exe : [21, 22, 23, 24]
+[Terminated]: nevada13.exe: burst(0); tEspera(712.051061055266 ms); tServicio(1764.9536983210382 ms) 
+[Terminated]: Procesos terminados 8
+[Swap]: Salida de nevada11.exe
+[MemCen]: Paginas asignadas a nevada11.exe : [16, 17, 21, 22, 23, 24, 29]
+[Running]: nevada3.exe: burst(1); tEspera(569.3500644684578 ms); tServicio(794.5431056717821 ms) 
+[MemCen]: Paginas liberadas de nevada3.exe : [25]
+[Terminated]: nevada3.exe: burst(0); tEspera(569.3500644684578 ms); tServicio(1036.7489117868065 ms) 
+[Terminated]: Procesos terminados 9
+[Swap]: Salida de nevada12.exe
+[Swap]: Ingreso de nevada12.exe
+[Running]: nevada8.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Swap]: Salida de nevada12.exe
+[Waiting]: nevada8.exe: burst(1); tEspera(0.0 ms); tServicio(798.0221483937222 ms) 
+[Swap]: Ingreso de nevada12.exe
+[Running]: nevada7.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Swap]: Salida de nevada12.exe
+[Swap]: Ingreso de nevada12.exe
+[Ready]: nevada8.exe: burst(1); tEspera(187.08174553020706 ms); tServicio(798.0221483937222 ms) 
+[Waiting]: nevada7.exe: burst(1); tEspera(0.0 ms); tServicio(736.1883213204279 ms) 
+[Swap]: Salida de nevada12.exe
+[Swap]: Ingreso de nevada12.exe
+[Running]: nevada5.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Swap]: Salida de nevada12.exe
+[Waiting]: nevada5.exe: burst(1); tEspera(0.0 ms); tServicio(248.91798028148827 ms) 
+[Swap]: Ingreso de nevada12.exe
+[Running]: nevada4.exe: burst(1); tEspera(485.1847818181896 ms); tServicio(642.1214501322125 ms) 
+[MemCen]: Paginas liberadas de nevada4.exe : [0, 1, 18, 19]
+[Terminated]: nevada4.exe: burst(0); tEspera(485.1847818181896 ms); tServicio(815.440010446287 ms) 
+[Terminated]: Procesos terminados 10
+[Swap]: Salida de nevada12.exe
+[Swap]: Ingreso de nevada12.exe
+[Running]: nevada11.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Swap]: Salida de nevada12.exe
+[Swap]: Ingreso de nevada12.exe
+[Ready]: nevada7.exe: burst(1); tEspera(468.1187159346275 ms); tServicio(736.1883213204279 ms) 
+[Swap]: Salida de nevada12.exe
+[Waiting]: nevada11.exe: burst(2); tEspera(0.0 ms); tServicio(566.9790992067074 ms) 
+[Swap]: Ingreso de nevada12.exe
+[Running]: nevada8.exe: burst(1); tEspera(187.08174553020706 ms); tServicio(798.0221483937222 ms) 
+[Swap]: Salida de nevada12.exe
+[Swap]: Ingreso de nevada12.exe
+[Ready]: nevada5.exe: burst(1); tEspera(816.2446428364117 ms); tServicio(248.91798028148827 ms) 
+[Swap]: Salida de nevada12.exe
+[Swap]: Ingreso de nevada12.exe
+[Ready]: nevada11.exe: burst(2); tEspera(478.72421967852296 ms); tServicio(566.9790992067074 ms) 
+[MemCen]: Paginas liberadas de nevada8.exe : [6, 7, 8, 9, 20, 26]
+[Terminated]: nevada8.exe: burst(0); tEspera(187.08174553020706 ms); tServicio(1441.0949282784302 ms) 
+[Terminated]: Procesos terminados 11
+[Swap]: Salida de nevada12.exe
+[MemCen]: Paginas asignadas a nevada12.exe : [0, 1, 6, 7, 8, 9, 18, 19, 20]
+[Running]: nevada7.exe: burst(1); tEspera(468.1187159346275 ms); tServicio(736.1883213204279 ms) 
+[MemCen]: Paginas liberadas de nevada7.exe : [10, 11, 12, 13, 27, 28]
+[Terminated]: nevada7.exe: burst(0); tEspera(468.1187159346275 ms); tServicio(844.305347650063 ms) 
+[Terminated]: Procesos terminados 12
+[Running]: nevada5.exe: burst(1); tEspera(816.2446428364117 ms); tServicio(248.91798028148827 ms) 
+[MemCen]: Paginas liberadas de nevada5.exe : [2, 3, 4, 5, 14, 15]
+[Terminated]: nevada5.exe: burst(0); tEspera(816.2446428364117 ms); tServicio(470.1184165458577 ms) 
+[Terminated]: Procesos terminados 13
+[Running]: nevada11.exe: burst(2); tEspera(478.72421967852296 ms); tServicio(566.9790992067074 ms) 
+[Waiting]: nevada11.exe: burst(1); tEspera(478.72421967852296 ms); tServicio(608.1604322421704 ms) 
+[Running]: nevada12.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Ready]: nevada11.exe: burst(1); tEspera(498.79375923873357 ms); tServicio(608.1604322421704 ms) 
+[Waiting]: nevada12.exe: burst(2); tEspera(0.0 ms); tServicio(148.60334153819366 ms) 
+[Running]: nevada11.exe: burst(1); tEspera(498.79375923873357 ms); tServicio(608.1604322421704 ms) 
+[Ready]: nevada12.exe: burst(2); tEspera(725.3588766841466 ms); tServicio(148.60334153819366 ms) 
+[MemCen]: Paginas liberadas de nevada11.exe : [16, 17, 21, 22, 23, 24, 29]
+[Terminated]: nevada11.exe: burst(0); tEspera(498.79375923873357 ms); tServicio(1525.3556079239868 ms) 
+[Terminated]: Procesos terminados 14
+[Running]: nevada12.exe: burst(2); tEspera(725.3588766841466 ms); tServicio(148.60334153819366 ms) 
+[Waiting]: nevada12.exe: burst(1); tEspera(725.3588766841466 ms); tServicio(279.70253635134964 ms) 
+[Ready]: nevada12.exe: burst(1); tEspera(937.2270407961962 ms); tServicio(279.70253635134964 ms) 
+[Running]: nevada12.exe: burst(1); tEspera(937.2270407961962 ms); tServicio(279.70253635134964 ms) 
+[MemCen]: Paginas liberadas de nevada12.exe : [0, 1, 6, 7, 8, 9, 18, 19, 20]
+[Terminated]: nevada12.exe: burst(0); tEspera(937.2270407961962 ms); tServicio(1232.348502892793 ms) 
+[Terminated]: Procesos terminados 15
+[Scheduler]: Carga terminada
+[New]: nevada7.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada4.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada5.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada12.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada6.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada14.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada9.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada1.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada8.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada11.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada0.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada3.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada2.exe: burst(1); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada10.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[New]: nevada13.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[MemCen]: Paginas asignadas a nevada7.exe : [0, 1, 2, 3, 4, 5]
+[Ready]: nevada7.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[MemCen]: Paginas asignadas a nevada13.exe : [6, 7, 8, 9]
+[Ready]: nevada13.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[MemCen]: Paginas asignadas a nevada1.exe : [10, 11, 12]
+[Running]: nevada7.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Ready]: nevada1.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[MemCen]: Paginas asignadas a nevada6.exe : [13, 14, 15, 16]
+[MemCen]: Paginas asignadas a nevada5.exe : [17, 18, 19, 20, 21, 22]
+[Ready]: nevada6.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[MemCen]: Paginas asignadas a nevada9.exe : [23, 24, 25, 26]
+[Ready]: nevada5.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Ready]: nevada9.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Swap]: Ingreso de nevada12.exe
+[MemCen]: Paginas asignadas a nevada2.exe : [27, 28]
+[Ready]: nevada2.exe: burst(1); tEspera(0.0 ms); tServicio(0.0 ms) 
+[MemCen]: Paginas asignadas a nevada3.exe : [29]
+[Swap]: Ingreso de nevada14.exe
+[Swap]: Ingreso de nevada8.exe
+[Ready]: nevada3.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Swap]: Ingreso de nevada11.exe
+[Swap]: Ingreso de nevada10.exe
+[Swap]: Ingreso de nevada0.exe
+[Swap]: Ingreso de nevada4.exe
+[Swap]: Salida de nevada14.exe
+[Waiting]: nevada7.exe: burst(1); tEspera(0.0 ms); tServicio(953.4946579852847 ms) 
+[Swap]: Ingreso de nevada14.exe
+[Running]: nevada13.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Swap]: Salida de nevada4.exe
+[Swap]: Ingreso de nevada4.exe
+[Ready]: nevada7.exe: burst(1); tEspera(767.7934775908584 ms); tServicio(953.4946579852847 ms) 
+[Swap]: Salida de nevada14.exe
+[Waiting]: nevada13.exe: burst(2); tEspera(0.0 ms); tServicio(956.6846991005116 ms) 
+[Swap]: Ingreso de nevada14.exe
+[Running]: nevada1.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Swap]: Salida de nevada4.exe
+[Waiting]: nevada1.exe: burst(1); tEspera(0.0 ms); tServicio(191.90845485259766 ms) 
+[Swap]: Ingreso de nevada4.exe
+[Running]: nevada6.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Swap]: Salida de nevada14.exe
+[Swap]: Ingreso de nevada14.exe
+[Ready]: nevada13.exe: burst(2); tEspera(278.0134807655821 ms); tServicio(956.6846991005116 ms) 
+[Swap]: Salida de nevada4.exe
+[Waiting]: nevada6.exe: burst(1); tEspera(0.0 ms); tServicio(284.98612859160744 ms) 
+[Swap]: Ingreso de nevada4.exe
+[Running]: nevada5.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Swap]: Salida de nevada14.exe
+[Swap]: Ingreso de nevada14.exe
+[Ready]: nevada1.exe: burst(1); tEspera(368.0902469940607 ms); tServicio(191.90845485259766 ms) 
+[Swap]: Salida de nevada4.exe
+[Swap]: Ingreso de nevada4.exe
+[Ready]: nevada6.exe: burst(1); tEspera(525.1511262539891 ms); tServicio(284.98612859160744 ms) 
+[Swap]: Salida de nevada14.exe
+[Waiting]: nevada5.exe: burst(1); tEspera(0.0 ms); tServicio(912.2099940142165 ms) 
+[Swap]: Ingreso de nevada14.exe
+[Running]: nevada9.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Swap]: Salida de nevada4.exe
+[Swap]: Ingreso de nevada4.exe
+[Ready]: nevada5.exe: burst(1); tEspera(482.1553673497463 ms); tServicio(912.2099940142165 ms) 
+[Swap]: Salida de nevada14.exe
+[Waiting]: nevada9.exe: burst(2); tEspera(0.0 ms); tServicio(784.8608430147951 ms) 
+[Swap]: Ingreso de nevada14.exe
+[Running]: nevada2.exe: burst(1); tEspera(0.0 ms); tServicio(0.0 ms) 
+[MemCen]: Paginas liberadas de nevada2.exe : [27, 28]
+[Terminated]: nevada2.exe: burst(0); tEspera(0.0 ms); tServicio(63.98232851935648 ms) 
+[Terminated]: Procesos terminados 1
+[Swap]: Salida de nevada4.exe
+[Swap]: Ingreso de nevada4.exe
+[Running]: nevada3.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Swap]: Salida de nevada14.exe
+[Waiting]: nevada3.exe: burst(2); tEspera(0.0 ms); tServicio(609.357648796944 ms) 
+[Swap]: Ingreso de nevada14.exe
+[Running]: nevada7.exe: burst(1); tEspera(767.7934775908584 ms); tServicio(953.4946579852847 ms) 
+[Swap]: Salida de nevada4.exe
+[Swap]: Ingreso de nevada4.exe
+[Ready]: nevada9.exe: burst(2); tEspera(913.0991178400591 ms); tServicio(784.8608430147951 ms) 
+[Swap]: Salida de nevada14.exe
+[Swap]: Ingreso de nevada14.exe
+[Ready]: nevada3.exe: burst(2); tEspera(599.1493306284382 ms); tServicio(609.357648796944 ms) 
+[MemCen]: Paginas liberadas de nevada7.exe : [0, 1, 2, 3, 4, 5]
+[Terminated]: nevada7.exe: burst(0); tEspera(767.7934775908584 ms); tServicio(1897.4295229837612 ms) 
+[Terminated]: Procesos terminados 2
+[Swap]: Salida de nevada4.exe
+[MemCen]: Paginas asignadas a nevada4.exe : [0, 1, 2, 3]
+[Running]: nevada13.exe: burst(2); tEspera(278.0134807655821 ms); tServicio(956.6846991005116 ms) 
+[Swap]: Salida de nevada14.exe
+[Waiting]: nevada13.exe: burst(1); tEspera(278.0134807655821 ms); tServicio(1491.4658300776277 ms) 
+[MemCen]: Paginas asignadas a nevada14.exe : [4, 5, 27, 28]
+[Running]: nevada1.exe: burst(1); tEspera(368.0902469940607 ms); tServicio(191.90845485259766 ms) 
+[Swap]: Salida de nevada10.exe
+[Swap]: Ingreso de nevada10.exe
+[Ready]: nevada13.exe: burst(1); tEspera(964.3290695108496 ms); tServicio(1491.4658300776277 ms) 
+[MemCen]: Paginas liberadas de nevada1.exe : [10, 11, 12]
+[Terminated]: nevada1.exe: burst(0); tEspera(368.0902469940607 ms); tServicio(1057.517855926254 ms) 
+[Terminated]: Procesos terminados 3
+[Swap]: Salida de nevada0.exe
+[Swap]: Ingreso de nevada0.exe
+[Running]: nevada6.exe: burst(1); tEspera(525.1511262539891 ms); tServicio(284.98612859160744 ms) 
+[MemCen]: Paginas liberadas de nevada6.exe : [13, 14, 15, 16]
+[Terminated]: nevada6.exe: burst(0); tEspera(525.1511262539891 ms); tServicio(943.4611090122353 ms) 
+[Terminated]: Procesos terminados 4
+[Swap]: Salida de nevada10.exe
+[MemCen]: Paginas asignadas a nevada10.exe : [10, 11, 12, 13]
+[Running]: nevada5.exe: burst(1); tEspera(482.1553673497463 ms); tServicio(912.2099940142165 ms) 
+[MemCen]: Paginas liberadas de nevada5.exe : [17, 18, 19, 20, 21, 22]
+[Terminated]: nevada5.exe: burst(0); tEspera(482.1553673497463 ms); tServicio(1682.713666058106 ms) 
+[Terminated]: Procesos terminados 5
+[Swap]: Salida de nevada0.exe
+[MemCen]: Paginas asignadas a nevada0.exe : [14, 15, 16, 17]
+[Running]: nevada9.exe: burst(2); tEspera(913.0991178400591 ms); tServicio(784.8608430147951 ms) 
+[Swap]: Salida de nevada8.exe
+[Waiting]: nevada9.exe: burst(1); tEspera(913.0991178400591 ms); tServicio(1342.6093745908474 ms) 
+[Swap]: Ingreso de nevada8.exe
+[Running]: nevada3.exe: burst(2); tEspera(599.1493306284382 ms); tServicio(609.357648796944 ms) 
+[Swap]: Salida de nevada8.exe
+[Swap]: Ingreso de nevada8.exe
+[Ready]: nevada9.exe: burst(1); tEspera(1135.9973327313958 ms); tServicio(1342.6093745908474 ms) 
+[Waiting]: nevada3.exe: burst(1); tEspera(599.1493306284382 ms); tServicio(875.0348892617417 ms) 
+[Swap]: Salida de nevada8.exe
+[Swap]: Ingreso de nevada8.exe
+[Running]: nevada4.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Waiting]: nevada4.exe: burst(1); tEspera(0.0 ms); tServicio(630.2207083860211 ms) 
+[Swap]: Salida de nevada8.exe
+[Swap]: Ingreso de nevada8.exe
+[Running]: nevada14.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Swap]: Salida de nevada8.exe
+[Swap]: Ingreso de nevada8.exe
+[Ready]: nevada3.exe: burst(1); tEspera(1418.240293847417 ms); tServicio(875.0348892617417 ms) 
+[Waiting]: nevada14.exe: burst(2); tEspera(0.0 ms); tServicio(584.1009536556503 ms) 
+[Swap]: Salida de nevada8.exe
+[Swap]: Ingreso de nevada8.exe
+[Running]: nevada13.exe: burst(1); tEspera(964.3290695108496 ms); tServicio(1491.4658300776277 ms) 
+[Swap]: Salida de nevada8.exe
+[Swap]: Ingreso de nevada8.exe
+[Ready]: nevada4.exe: burst(1); tEspera(725.8644834169135 ms); tServicio(630.2207083860211 ms) 
+[MemCen]: Paginas liberadas de nevada13.exe : [6, 7, 8, 9]
+[Terminated]: nevada13.exe: burst(0); tEspera(964.3290695108496 ms); tServicio(1833.8192472160863 ms) 
+[Terminated]: Procesos terminados 6
+[Swap]: Salida de nevada8.exe
+[MemCen]: Paginas asignadas a nevada8.exe : [6, 7, 8, 9, 18, 19]
+[Running]: nevada10.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Swap]: Salida de nevada11.exe
+[Swap]: Ingreso de nevada11.exe
+[Ready]: nevada14.exe: burst(2); tEspera(509.99599534264973 ms); tServicio(584.1009536556503 ms) 
+[Waiting]: nevada10.exe: burst(2); tEspera(0.0 ms); tServicio(648.6973386390816 ms) 
+[Swap]: Salida de nevada11.exe
+[Swap]: Ingreso de nevada11.exe
+[Running]: nevada0.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Waiting]: nevada0.exe: burst(2); tEspera(0.0 ms); tServicio(146.88976850755574 ms) 
+[Swap]: Salida de nevada11.exe
+[Swap]: Ingreso de nevada11.exe
+[Running]: nevada9.exe: burst(1); tEspera(1135.9973327313958 ms); tServicio(1342.6093745908474 ms) 
+[Swap]: Salida de nevada11.exe
+[Swap]: Ingreso de nevada11.exe
+[Ready]: nevada0.exe: burst(2); tEspera(414.1826335671489 ms); tServicio(146.88976850755574 ms) 
+[Swap]: Salida de nevada11.exe
+[Swap]: Ingreso de nevada11.exe
+[Ready]: nevada10.exe: burst(2); tEspera(620.8958740557769 ms); tServicio(648.6973386390816 ms) 
+[MemCen]: Paginas liberadas de nevada9.exe : [23, 24, 25, 26]
+[Terminated]: nevada9.exe: burst(0); tEspera(1135.9973327313958 ms); tServicio(2052.7511177995584 ms) 
+[Terminated]: Procesos terminados 7
+[Swap]: Salida de nevada11.exe
+[MemCen]: Paginas asignadas a nevada11.exe : [20, 21, 22, 23, 24, 25, 26]
+[Running]: nevada3.exe: burst(1); tEspera(1418.240293847417 ms); tServicio(875.0348892617417 ms) 
+[MemCen]: Paginas liberadas de nevada3.exe : [29]
+[Terminated]: nevada3.exe: burst(0); tEspera(1418.240293847417 ms); tServicio(1833.550697871375 ms) 
+[Terminated]: Procesos terminados 8
+[Swap]: Salida de nevada12.exe
+[Swap]: Ingreso de nevada12.exe
+[Running]: nevada4.exe: burst(1); tEspera(725.8644834169135 ms); tServicio(630.2207083860211 ms) 
+[MemCen]: Paginas liberadas de nevada4.exe : [0, 1, 2, 3]
+[Terminated]: nevada4.exe: burst(0); tEspera(725.8644834169135 ms); tServicio(1417.587211722793 ms) 
+[Terminated]: Procesos terminados 9
+[Swap]: Salida de nevada12.exe
+[Swap]: Ingreso de nevada12.exe
+[Running]: nevada8.exe: burst(2); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Swap]: Salida de nevada12.exe
+[Waiting]: nevada8.exe: burst(1); tEspera(0.0 ms); tServicio(448.6902355480832 ms) 
+[Swap]: Ingreso de nevada12.exe
+[Running]: nevada14.exe: burst(2); tEspera(509.99599534264973 ms); tServicio(584.1009536556503 ms) 
+[Swap]: Salida de nevada12.exe
+[Waiting]: nevada14.exe: burst(1); tEspera(509.99599534264973 ms); tServicio(1329.431585542442 ms) 
+[Swap]: Ingreso de nevada12.exe
+[Running]: nevada0.exe: burst(2); tEspera(414.1826335671489 ms); tServicio(146.88976850755574 ms) 
+[Swap]: Salida de nevada12.exe
+[Swap]: Ingreso de nevada12.exe
+[Ready]: nevada8.exe: burst(1); tEspera(841.9049167836981 ms); tServicio(448.6902355480832 ms) 
+[Swap]: Salida de nevada12.exe
+[Waiting]: nevada0.exe: burst(1); tEspera(414.1826335671489 ms); tServicio(497.02894600767667 ms) 
+[Swap]: Ingreso de nevada12.exe
+[Running]: nevada10.exe: burst(2); tEspera(620.8958740557769 ms); tServicio(648.6973386390816 ms) 
+[Swap]: Salida de nevada12.exe
+[Swap]: Ingreso de nevada12.exe
+[Ready]: nevada14.exe: burst(1); tEspera(1420.9436291040922 ms); tServicio(1329.431585542442 ms) 
+[Swap]: Salida de nevada12.exe
+[Swap]: Ingreso de nevada12.exe
+[Ready]: nevada0.exe: burst(1); tEspera(1153.7246884024403 ms); tServicio(497.02894600767667 ms) 
+[Swap]: Salida de nevada12.exe
+[Waiting]: nevada10.exe: burst(1); tEspera(620.8958740557769 ms); tServicio(1642.2330172654358 ms) 
+[Swap]: Ingreso de nevada12.exe
+[Running]: nevada11.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Swap]: Salida de nevada12.exe
+[Swap]: Ingreso de nevada12.exe
+[Ready]: nevada10.exe: burst(1); tEspera(656.369821440961 ms); tServicio(1642.2330172654358 ms) 
+[Waiting]: nevada11.exe: burst(2); tEspera(0.0 ms); tServicio(196.69448915208974 ms) 
+[Swap]: Salida de nevada12.exe
+[Swap]: Ingreso de nevada12.exe
+[Running]: nevada8.exe: burst(1); tEspera(841.9049167836981 ms); tServicio(448.6902355480832 ms) 
+[Swap]: Salida de nevada12.exe
+[Swap]: Ingreso de nevada12.exe
+[Ready]: nevada11.exe: burst(2); tEspera(84.52371260746105 ms); tServicio(196.69448915208974 ms) 
+[MemCen]: Paginas liberadas de nevada8.exe : [6, 7, 8, 9, 18, 19]
+[Terminated]: nevada8.exe: burst(0); tEspera(841.9049167836981 ms); tServicio(1024.9254529284526 ms) 
+[Terminated]: Procesos terminados 10
+[Swap]: Salida de nevada12.exe
+[MemCen]: Paginas asignadas a nevada12.exe : [0, 1, 2, 3, 6, 7, 8, 9, 18]
+[Running]: nevada14.exe: burst(1); tEspera(1420.9436291040922 ms); tServicio(1329.431585542442 ms) 
+[MemCen]: Paginas liberadas de nevada14.exe : [4, 5, 27, 28]
+[Terminated]: nevada14.exe: burst(0); tEspera(1420.9436291040922 ms); tServicio(1961.4456732005624 ms) 
+[Terminated]: Procesos terminados 11
+[Running]: nevada0.exe: burst(1); tEspera(1153.7246884024403 ms); tServicio(497.02894600767667 ms) 
+[MemCen]: Paginas liberadas de nevada0.exe : [14, 15, 16, 17]
+[Terminated]: nevada0.exe: burst(0); tEspera(1153.7246884024403 ms); tServicio(1155.9418109255705 ms) 
+[Terminated]: Procesos terminados 12
+[Running]: nevada10.exe: burst(1); tEspera(656.369821440961 ms); tServicio(1642.2330172654358 ms) 
+[MemCen]: Paginas liberadas de nevada10.exe : [10, 11, 12, 13]
+[Terminated]: nevada10.exe: burst(0); tEspera(656.369821440961 ms); tServicio(2149.084324454203 ms) 
+[Terminated]: Procesos terminados 13
+[Running]: nevada11.exe: burst(2); tEspera(84.52371260746105 ms); tServicio(196.69448915208974 ms) 
+[Running]: nevada12.exe: burst(3); tEspera(0.0 ms); tServicio(0.0 ms) 
+[Waiting]: nevada11.exe: burst(1); tEspera(84.52371260746105 ms); tServicio(981.9971447911335 ms) 
+[Ready]: nevada11.exe: burst(1); tEspera(594.230183979059 ms); tServicio(981.9971447911335 ms) 
+[Running]: nevada11.exe: burst(1); tEspera(594.230183979059 ms); tServicio(981.9971447911335 ms) 
+[Waiting]: nevada12.exe: burst(2); tEspera(0.0 ms); tServicio(791.0361509319121 ms) 
+[Ready]: nevada12.exe: burst(2); tEspera(69.50129932941162 ms); tServicio(791.0361509319121 ms) 
+[MemCen]: Paginas liberadas de nevada11.exe : [20, 21, 22, 23, 24, 25, 26]
+[Terminated]: nevada11.exe: burst(0); tEspera(594.230183979059 ms); tServicio(1544.59393628067 ms) 
+[Terminated]: Procesos terminados 14
+[Running]: nevada12.exe: burst(2); tEspera(69.50129932941162 ms); tServicio(791.0361509319121 ms) 
+[Waiting]: nevada12.exe: burst(1); tEspera(69.50129932941162 ms); tServicio(1485.5271927989597 ms) 
+[Ready]: nevada12.exe: burst(1); tEspera(108.12606877431074 ms); tServicio(1485.5271927989597 ms) 
+[Running]: nevada12.exe: burst(1); tEspera(108.12606877431074 ms); tServicio(1485.5271927989597 ms) 
+[MemCen]: Paginas liberadas de nevada12.exe : [0, 1, 2, 3, 6, 7, 8, 9, 18]
+[Terminated]: nevada12.exe: burst(0); tEspera(108.12606877431074 ms); tServicio(1784.6698273043955 ms) 
+[Terminated]: Procesos terminados 15
+[Scheduler]: Carga terminada
